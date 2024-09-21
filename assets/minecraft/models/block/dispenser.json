@@ -1,9 +1,9 @@
 {
     "parent": "block/block",
     "textures": {
-        "bottom": "better_redstone:block/dispenser_back",
-        "side": "better_redstone:block/dispenser_side",
-        "top": "better_redstone:block/dispenser_top",
+        "bottom": "better_redstone:block/dropper_back",
+        "side": "better_redstone:block/dropper_side",
+        "top": "better_redstone:block/dropper_top",
         "front": "minecraft:block/dispenser_front",
         "particle": "minecraft:block/dispenser_front"
     },
