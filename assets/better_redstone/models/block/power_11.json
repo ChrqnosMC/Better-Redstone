@@ -1,0 +1,6 @@
+{
+    "parent": "better_redstone:block/power_base",
+    "textures": {
+        "power": "better_redstone:block/power_11"
+    }
+}
