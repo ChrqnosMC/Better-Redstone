@@ -1,11 +1,10 @@
 {
-	"credit": "Made by Nekzuris with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"slab": "block/smooth_stone",
-		"top": "block/repeater_on_1",
-		"particle": "block/repeater_on_1",
-		"lit": "block/redstone_torch"
+		"slab": "minecraft:block/smooth_stone",
+		"top": "better_redstone:block/repeater_on_1",
+		"particle": "better_redstone:block/repeater_on_1",
+		"lit": "minecraft:block/redstone_torch"
 	},
 	"elements": [
 		{
